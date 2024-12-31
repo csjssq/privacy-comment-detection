@@ -56,6 +56,9 @@ In the `source_code/` directory, the code related to feature extraction is locat
 
 The `classifier_contrast/` directory contains scripts and tools for comparing different classification models. It provides an environment to train, evaluate, and compare the performance of various classifiers.
 
+### Supplementary Material
+
+The `supplementary_material/` directory contains some appendix tables with detail data dashboard in our project.
 
 ## Contributing
 
